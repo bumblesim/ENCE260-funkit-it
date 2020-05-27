@@ -1,0 +1,28 @@
+15 October 2019
+
+FUNKIT IT - James Napier (jhn27) & Simon Lorimer (sal180)
+
+About:
+    This game is a take on bop it party mode for the UCFK4. It plays
+    somewhat similarly with players having limited decreasing time to
+    successfuly follow instructions on what button to press.
+
+HOW TO PLAY:
+
+Starting A Game:
+    To start a game push the joy button down on one controller as per instructions
+    led screen.
+    
+Playing A Game:
+    Once one player has pressed the joy button down the game will start.
+    The player who pressed the button down will start first. Push the joy in
+    the direction shown on screen if an arrow is displayed or if a circle is 
+    displayed push the joy down. This should be done before the timer runs out.
+    Turn by turn the timer will speed up giving each player less time.
+    The timer is shown as dots that count down across the top of the LED screen.
+    Once one player fails they lose. The other player wins and the game is over.
+    There will be coresponding feedback on each controller's LED screen.
+    
+Starting Another Game:
+    When in winning or losing state push the joy down to reset to the start game screen.
+    From here you can start another game as instructed earlier.
